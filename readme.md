@@ -27,12 +27,6 @@
 | eslint-plugin-import            | Advanced linting of ES6 imports                                  |
 | eslint-plugin-react             | Adds additional React-related rules to ESLint                    |
 | html-webpack-plugin             | Generate HTML file via webpack                                   |
-<!-- | http-server                     | Lightweight HTTP server to serve the production build locally    | -->
-<!-- | jest                            | Automated testing framework                                      | -->
-<!-- | json-server                     | Quickly create mock API that simulates create, update, delete    | -->
-<!-- | mini-css-extract-plugin         | Extract imported CSS to a separate file via Webpack              | -->
-<!-- | node-fetch                      | Make HTTP calls via fetch using Node - Used by fetch-mock        | -->
-<!-- | postcss-loader                  | Post-process CSS via Webpack                                     | -->
 | npm-run-all                     | Display results of multiple commands on single command line      |
 | react-test-renderer             | Render React components for testing                              |
 | react-testing-library           | Test React components                                            |
