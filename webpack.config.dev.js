@@ -15,6 +15,7 @@ module.exports = {
   },
   devServer: {
     stats: "minimal",
+    headers: { "Access-Control-Allow-Origin": "*" },
     overlay: true
   },
   plugins: [
