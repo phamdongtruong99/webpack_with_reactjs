@@ -1,8 +1,8 @@
 {
-  "name": "initial_base_reactjs",
+  "name": "learnRedux",
   "version": "1.0.0",
   "author": "truong.doshi",
-  "description": "admin_vita_pay with react js",
+  "description": "this is project using react redux ...",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js --port 3000"
   },
@@ -14,7 +14,7 @@
     "react-redux": "6.0.1",
     "react-router-dom": "5.0.0",
     "react-toastify": "4.5.2",
-    "redux": "4.0.1",
+    "redux": "^4.0.1",
     "redux-thunk": "2.3.0"
   },
   "devDependencies": {
